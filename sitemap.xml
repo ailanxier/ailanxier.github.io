@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ailanxier.top/about/</loc>
+    <loc>https://ailanxier.top/git</loc>
     
     <lastmod>2022-01-28</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://ailanxier.top/git</loc>
+    <loc>https://ailanxier.top/about/</loc>
     
     <lastmod>2022-01-28</lastmod>
     
@@ -47,13 +47,6 @@
 
   
   <url>
-    <loc>https://ailanxier.top/tags/Git/</loc>
-    <lastmod>2022-01-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ailanxier.top/tags/Hitsz/</loc>
     <lastmod>2022-01-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -62,6 +55,13 @@
   
   <url>
     <loc>https://ailanxier.top/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2022-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ailanxier.top/tags/Git/</loc>
     <lastmod>2022-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -77,14 +77,14 @@
 
   
   <url>
-    <loc>https://ailanxier.top/categories/%E7%A7%91%E6%8A%80%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://ailanxier.top/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2022-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ailanxier.top/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://ailanxier.top/categories/%E7%A7%91%E6%8A%80%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2022-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
