@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ailanxier.top/Database_System</loc>
+    
+    <lastmod>2022-05-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ailanxier.top/git</loc>
     
     <lastmod>2022-01-28</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://ailanxier.top/about/</loc>
     
     <lastmod>2022-01-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ailanxier.top/Database_System</loc>
-    
-    <lastmod>2022-01-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
