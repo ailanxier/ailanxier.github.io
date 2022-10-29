@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ailanxier.top/git</loc>
+    <loc>https://ailanxier.top/FHE-1-Discrete%20mathematics</loc>
     
-    <lastmod>2022-05-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ailanxier.top/Database_System</loc>
-    
-    <lastmod>2022-05-19</lastmod>
+    <lastmod>2022-10-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +13,25 @@
   <url>
     <loc>https://ailanxier.top/about/</loc>
     
-    <lastmod>2022-01-28</lastmod>
+    <lastmod>2022-10-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ailanxier.top/Database_System</loc>
+    
+    <lastmod>2022-10-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ailanxier.top/git</loc>
+    
+    <lastmod>2022-10-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,36 +49,50 @@
 
   <url>
     <loc>https://ailanxier.top/</loc>
-    <lastmod>2022-05-19</lastmod>
+    <lastmod>2022-10-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://ailanxier.top/tags/Hitsz/</loc>
-    <lastmod>2022-05-19</lastmod>
+    <loc>https://ailanxier.top/tags/%E5%85%A8%E5%90%8C%E6%80%81%E5%8A%A0%E5%AF%86/</loc>
+    <lastmod>2022-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ailanxier.top/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2022-05-19</lastmod>
+    <loc>https://ailanxier.top/tags/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/</loc>
+    <lastmod>2022-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ailanxier.top/tags/Git/</loc>
-    <lastmod>2022-05-19</lastmod>
+    <lastmod>2022-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ailanxier.top/tags/Hitsz/</loc>
+    <lastmod>2022-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ailanxier.top/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2022-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ailanxier.top/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2022-05-19</lastmod>
+    <lastmod>2022-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -77,15 +100,22 @@
 
   
   <url>
-    <loc>https://ailanxier.top/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-05-19</lastmod>
+    <loc>https://ailanxier.top/categories/%E7%A7%91%E7%A0%94%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ailanxier.top/categories/%E7%A7%91%E6%8A%80%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-05-19</lastmod>
+    <lastmod>2022-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ailanxier.top/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
