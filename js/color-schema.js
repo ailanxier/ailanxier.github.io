@@ -226,24 +226,15 @@
     // 设置 utterances 评论主题
     var utterances = document.querySelector('.utterances-frame');
     if (utterances) {
-      var utterancesTheme = schema === 'dark' ? window.UtterancesThemeDark : window.UtterancesThemeLight;
+      var theme = window.UtterancesThemeLight;
+      if (schema === 'dark') {
+        theme = window.UtterancesThemeDark;
+      }
       const message = {
         type : 'set-theme',
-        theme: utterancesTheme
+        theme: theme
       };
       utterances.contentWindow.postMessage(message, 'https://utteranc.es');
-    }
-
-    // 设置 giscus 评论主题
-    var giscus = document.querySelector('iframe.giscus-frame');
-    if (giscus) {
-      var giscusTheme = schema === 'dark' ? window.GiscusThemeDark : window.GiscusThemeLight;
-      const message = {
-        setConfig: {
-          theme: giscusTheme,
-        }
-      };
-      giscus.contentWindow.postMessage({ 'giscus': message }, 'https://giscus.app');
     }
   }
 
